@@ -1,0 +1,6 @@
+/* reset data css pada browser */
+@tailwind base;
+/* reponsive */
+@tailwind components;
+/* margin padding display */
+@tailwind utilities;
